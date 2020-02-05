@@ -1,0 +1,3 @@
+[submodule "rtAuralization"]
+	path = Plugins/rtAuralization
+	url = https://enghofer@bitbucket.org/enghofer/rtauralization.git
