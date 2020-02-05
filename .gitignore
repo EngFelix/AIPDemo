@@ -49,6 +49,9 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/*/Binaries/*
 
+#Packaged Game
+WindowsNoEditor/*
+
 # Builds
 Build/*
 
