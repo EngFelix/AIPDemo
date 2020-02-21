@@ -1,3 +1,6 @@
 [submodule "rtAuralization"]
 	path = Plugins/rtAuralization
 	url = https://enghofer@bitbucket.org/enghofer/rtauralization.git
+[submodule "Plugins/ndisplayextensions"]
+	path = Plugins/ndisplayextensions
+	url = https://enghofer@bitbucket.org/enghofer/ndisplayextensions.git
