@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.24",
+	"EngineAssociation": "{F3E61419-41BD-9B24-79AE-4CBB0B727C93}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -41,13 +41,8 @@
 			]
 		},
 		{
-			"Name": "MegascansPlugin",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Mac",
-				"Linux"
-			]
+			"Name": "OptitrackNatnet",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
