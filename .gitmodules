@@ -1,9 +1,9 @@
-[submodule "rtAuralization"]
+[submodule "Plugins/rtAuralization"]
 	path = Plugins/rtAuralization
 	url = https://enghofer@bitbucket.org/enghofer/rtauralization.git
-[submodule "ndisplayextensions"]
+[submodule "Plugins/ndisplayextensions"]
 	path = Plugins/ndisplayextensions
 	url = https://enghofer@bitbucket.org/enghofer/ndisplayextensions.git
-[submodule "optitracknatnet"]
+[submodule "Plugins/optitracknatnet"]
 	path = Plugins/optitracknatnet
 	url = https://enghofer@bitbucket.org/enghofer/optitracknatnet.git
