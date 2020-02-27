@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class rtSOFETemplateEditorTarget : TargetRules
+public class AIPDemoEditorTarget : TargetRules
 {
-	public rtSOFETemplateEditorTarget(TargetInfo Target) : base(Target)
+	public AIPDemoEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 
-		ExtraModuleNames.AddRange( new string[] { "rtSOFETemplate" } );
+		ExtraModuleNames.AddRange( new string[] { "AIPDemo" } );
 	}
 }

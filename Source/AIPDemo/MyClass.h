@@ -7,7 +7,7 @@
 /**
  * 
  */
-class RTSOFETEMPLATE_API MyClass
+class AIPDEMO_API MyClass
 {
 public:
 	MyClass();
