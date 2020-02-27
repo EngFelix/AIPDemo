@@ -4,3 +4,6 @@
 [submodule "Plugins/ndisplayextensions"]
 	path = Plugins/ndisplayextensions
 	url = https://enghofer@bitbucket.org/enghofer/ndisplayextensions.git
+[submodule "Plugins/optitracknatnet"]
+	path = Plugins/optitracknatnet
+	url = https://enghofer@bitbucket.org/enghofer/optitracknatnet.git

@@ -1,11 +1,11 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{61F614CC-4D3C-12F0-4299-3DBCAF13AA7F}",
+	"EngineAssociation": "4.24",
 	"Category": "",
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "nDisplay24Sample",
+			"Name": "rtSOFETemplate",
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [

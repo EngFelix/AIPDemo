@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class nDisplay24Sample : ModuleRules
+public class rtSOFETemplate : ModuleRules
 {
-	public nDisplay24Sample(ReadOnlyTargetRules Target) : base(Target)
+	public rtSOFETemplate(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

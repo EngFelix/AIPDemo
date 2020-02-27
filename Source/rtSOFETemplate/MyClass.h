@@ -7,7 +7,7 @@
 /**
  * 
  */
-class NDISPLAY24SAMPLE_API MyClass
+class RTSOFETEMPLATE_API MyClass
 {
 public:
 	MyClass();

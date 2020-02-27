@@ -3,13 +3,13 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class nDisplay24SampleTarget : TargetRules
+public class rtSOFETemplateTarget : TargetRules
 {
-	public nDisplay24SampleTarget(TargetInfo Target) : base(Target)
+	public rtSOFETemplateTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
 		
-		ExtraModuleNames.AddRange( new string[] { "nDisplay24Sample" } );
+		ExtraModuleNames.AddRange( new string[] { "rtSOFETemplate" } );
 	}
 }
