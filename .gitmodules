@@ -7,3 +7,6 @@
 [submodule "Plugins/OptitrackNatnet"]
 	path = Plugins/OptitrackNatnet
 	url = https://enghofer@bitbucket.org/enghofer/optitracknatnet.git
+[submodule "Plugins/MegascansPlugin"]
+	path = Plugins/MegascansPlugin
+	url = https://enghofer@bitbucket.org/enghofer/megascansplugin.git
