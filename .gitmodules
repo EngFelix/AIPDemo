@@ -1,12 +1,12 @@
 [submodule "Plugins/rtAuralization"]
 	path = Plugins/rtAuralization
-	url = https://enghofer@bitbucket.org/enghofer/rtauralization.git
-[submodule "Plugins/ndisplayextensions"]
+	url = Y:/students/Enghofer_Felix/Git/rtAuralization.git
+[submodule "Plugins/nDisplayExtensions"]
 	path = Plugins/ndisplayextensions
-	url = https://enghofer@bitbucket.org/enghofer/ndisplayextensions.git
+	url = Y:/students/Enghofer_Felix/Git/nDisplayExtensions.git
 [submodule "Plugins/OptitrackNatnet"]
 	path = Plugins/OptitrackNatnet
-	url = https://enghofer@bitbucket.org/enghofer/optitracknatnet.git
+	url = Y:/students/Enghofer_Felix/Git/OptitrackNatnet.git
 [submodule "Plugins/MegascansPlugin"]
 	path = Plugins/MegascansPlugin
-	url = https://enghofer@bitbucket.org/enghofer/megascansplugin.git
+	url = Y:/students/Enghofer_Felix/Git/MegascansPlugin.git
