@@ -70,6 +70,7 @@ Build/*/**
 Saved/*
 !/Saved/**/RtSOFEs.ini
 !/Saved/**/Convolvers.ini
+!/Saved/**/ExperimentConfig.ini
 
 # Compiled source files for the engine to use
 Intermediate/*
